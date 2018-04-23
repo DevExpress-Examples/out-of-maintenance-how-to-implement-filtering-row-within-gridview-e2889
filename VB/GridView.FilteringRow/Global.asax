@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.vb" Inherits="GridView.FilteringRow.MvcApplication" Language="vb" %>
